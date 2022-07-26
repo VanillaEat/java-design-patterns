@@ -1,4 +1,4 @@
-package com.example.interfac;
+package com.example.interfac.interduce;
 
 /**
  * 功能描述
@@ -14,5 +14,5 @@ public class Demo21 {
      * 2.接口中只有方法，类中有字段和方法
      * 3.抽象类中的方法是抽象方法，接口中也是抽象方法。如何使用抽象类与接口。一个是继承于extends抽象类，一个是实现implements于接口
      */
-    
+
 }
